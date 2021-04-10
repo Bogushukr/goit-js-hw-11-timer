@@ -70,5 +70,5 @@ class CountdownTimer {
 
 export default new CountdownTimer({
   selector: '#timer-1',
-  targetDate: new Date('09, 01, 2021'),
+  targetDate: new Date('10, 01, 2021'),
 });
